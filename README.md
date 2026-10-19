@@ -5,7 +5,9 @@
 Thief Cat is a charming 3D casual adventure game where you explore a colorful world, collect delicious ingredients, escape dangerous monsters, and build your dream restaurant!
 
 ## 🎮 Gameplay
-
+<img width="1920" height="1080" alt="cat22" src="https://github.com/user-attachments/assets/e24ace20-8208-444d-9066-5e9f5386368e" />
+<img width="1920" height="1080" alt="cat33" src="https://github.com/user-attachments/assets/82e90b58-c77d-4b71-91f6-b4d7271d6c21" />
+- Video https://youtu.be/NNWxKHLtqLU
 - 🌍 **Explore the World** — Discover colorful locations and hidden secrets.
 - 🍎 **Collect Food** — Find ingredients scattered across the world.
 - 👾 **Escape Monsters** — Dodge enemies and protect your precious food.
